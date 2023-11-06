@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+
+#blog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+canvas {
+    background: #f0f0f0;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    align-items: center;
+    
+}
+
+#resetButton {
+    margin-top: 10px;
+}
+
+
+
